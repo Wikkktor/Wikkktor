@@ -11,7 +11,7 @@
   
 - 📫 How to reach me: <a href="mailto: wkaraszewicz@gmail.com">wkaraszewicz@gmail.com</a>
 - :smile: Currently working in GrupaLucrum as a Full Stack developer
-- :zap: In my free time I am doing curses like CS50 or TryHackMe
+- :zap: In my free time I am doing courses like CS50 or TryHackMe
 
 ---
 
