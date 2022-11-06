@@ -13,7 +13,7 @@
 - :smile: Working in GrupaLucrum as a Full Stack developer
 - :zap: In my free time I am doing courses like CS50 or TryHackMe
 
-More information about me: 
+### More information about me: 
 - https://wiktorkaraszewicz.herokuapp.com
 
 ---
