@@ -7,7 +7,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning Docker, FastApi
+- 🌱 I’m currently learning NextJS, AWS cloud essentials
   
 - 📫 How to reach me: <a href="mailto: wkaraszewicz@gmail.com">wkaraszewicz@gmail.com</a>
 - :smile: Working in GrupaLucrum as a Full Stack developer
