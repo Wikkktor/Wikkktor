@@ -14,7 +14,7 @@
 - :zap: In my free time I am doing courses like CS50 or TryHackMe
 
 ### More information about me: 
-- https://wiktorkaraszewicz.herokuapp.com
+- https://wiktorkaraszewicz.pl
 
 ---
 
