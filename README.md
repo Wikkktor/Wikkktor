@@ -6,8 +6,6 @@
 ---
 
 ### About me
-
-- 🌱 I’m currently learning NextJS
   
 - 📫 How to reach me: <a href="mailto: wkaraszewicz@gmail.com">wkaraszewicz@gmail.com</a>
 - :smile: Working in GrupaLucrum as a Full Stack developer
