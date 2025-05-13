@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working with React + FastAPI<br>🌱 I’m currently learning react-native<br>💬 Ask me about anything<br>⚡ Computer science  + economics student
+🔭 Working with React + FastAPI<br>🌱 I’m currently learning Kafka && ElasticSearch<br>💬 Ask me about anything<br>⚡ Computer science  + economics student
 
 
 # 💻 Tech Stack:
